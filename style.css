@@ -10,8 +10,6 @@
     padding: 20px 40px;
 }
 
-
-
 .slider-item-price {
     display: block;
     color: #FF136F;
@@ -28,4 +26,29 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.shop-categories h1 {
+    color: white;
+}
+
+.shop-categories img {
+    width: 100px;
 }
