@@ -1,1 +1,1 @@
-# simple-ecommerce
+# simple ecommerce website with Bootstrap
