@@ -81,6 +81,7 @@
     background-color: #fceae8;
     border-radius: 10px;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .subscribe h6 {
@@ -94,5 +95,10 @@ input {
     border: 1px solid gray;
     
 
+}
+
+footer {
+
+    text-align: center;
 }
 
