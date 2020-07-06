@@ -71,3 +71,28 @@
     margin-bottom: 50px;
     margin-top: 0;
 }
+
+.card-footer {
+    border: none;
+}
+
+.subscribe {
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.subscribe h6 {
+    color: gray;
+}
+
+input {
+    margin-top: 30px;
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    
+
+}
+
